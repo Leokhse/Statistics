@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Statsservice" />
+        <module name="javaqamvn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Statistic" target="11" />
+      <module name="Statsservice" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
